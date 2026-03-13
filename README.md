@@ -50,6 +50,9 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
 </p>
 
 NumPy • Pandas • Scikit-learn
