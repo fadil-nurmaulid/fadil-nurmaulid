@@ -61,7 +61,7 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=ros2" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=ros" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50"/>
 </p>
 
@@ -70,7 +70,7 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 ### Engineering Tools
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/kicad/314CB0" width="50" height="50"/>
 <img src="https://cdn.simpleicons.org/ltspice/8B0000" width="50" height="50"/>
 <img src="https://cdn.simpleicons.org/tinkercad/1477D1" width="50" height="50"/>
 </p>
