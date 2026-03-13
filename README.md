@@ -1,61 +1,117 @@
-# Fadil
+<h1 align="center">Fadil</h1>
 
-**Physics Student — Universitas Indonesia**
+<p align="center">
+<img src="https://img.shields.io/badge/Physics-Instrumentation-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Field-Computational%20Science-1f6feb?style=for-the-badge"/>
+</p>
+
+<p align="center">
 Computational Physics • Artificial Intelligence • Scientific Computing
+</p>
 
-I study and build systems at the intersection of **physics, mathematics, and machine intelligence**.
-My long-term objective is to work in **AI research**, particularly in areas where machine learning can advance scientific and technological systems.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fadil-nurmaulid&style=for-the-badge"/>
+</p>
+
+---
+
+## About
+
+Physics Instrumentation undergraduate at University of Indonesia with a strong focus on artificial intelligence, computational science, electronics, embedded systems, and IoT. I am driven to integrate analytical thinking, programming expertise, and scientific methods to develop intelligent systems and innovative technological solutions. My interests span the intersection of physical instrumentation and computational technologies, aiming to advance research and practical applications in AI-driven and data-intensive environments.
 
 ---
 
 ## Research Interests
 
-* Artificial Intelligence
-* Machine Learning
-* Computational Physics
-* Scientific Computing
-* Intelligent Systems
-* Mathematical Modeling
-* Robotics and Embedded Systems
+🔹 Artificial Intelligence
+🔹 Machine Learning
+🔹 Computational Physics
+🔹 Scientific Computing
+🔹 Intelligent Systems
+🔹 Mathematical Modeling
+🔹 Robotics & Embedded Systems
 
 ---
 
-## Technical Skills
+# Technical Stack
 
 ### Programming
 
-Python
-C++
-MATLAB
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=matlab"/>
+</p>
 
-### Scientific & AI Tools
+---
 
-NumPy
-Pandas
-PyTorch
-Scikit-learn
+### AI / Scientific Tools
 
-### Engineering & Hardware
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
 
-Arduino
-Electronics Prototyping
-Embedded Systems
+NumPy • Pandas • Scikit-learn
+
+---
+
+### Engineering / Hardware
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+Arduino • Electronics Prototyping • Embedded Systems • IoT
+
+---
 
 ### Development Environment
 
-Linux
-Git
-Docker
+<p>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+</p>
+
 Qt / PyQt
 
 ---
 
-## Academic Background
+# GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fadil-nurmaulid&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadil-nurmaulid&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fadil-nurmaulid&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fadil-nurmaulid&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# Academic Background
 
 **Universitas Indonesia**
-Bachelor of Science — Physics
+Bachelor of Science — Physics (Instrumentation)
 
-Current focus areas include:
+Relevant Areas:
 
 * Calculus I–III
 * Linear Algebra
@@ -65,7 +121,7 @@ Current focus areas include:
 
 ---
 
-## Current Focus
+# Current Focus
 
 * Strengthening foundations in **mathematics and theoretical physics**
 * Expanding **AI and machine learning knowledge**
@@ -74,7 +130,7 @@ Current focus areas include:
 
 ---
 
-## Long-Term Direction
+# Long-Term Direction
 
 My goal is to become an **AI Research Scientist**, focusing on the development of intelligent systems that combine:
 
@@ -86,10 +142,20 @@ I am particularly interested in research that bridges **scientific computation a
 
 ---
 
-## Contact
+# Connect
 
-GitHub
-https://github.com/fadil-nurmaulid
+<p>
+<a href="https://github.com/fadil-nurmaulid">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
-LinkedIn
-https://linkedin.com/in/fadil-nurmaulid
+<a href="https://linkedin.com/in/fadil-nurmaulid">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+“Even if no one sees, the flower still blooms.”
+</p>
