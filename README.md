@@ -1,4 +1,4 @@
-<h1 align="center">Fadil</h1>
+<h1 align="center">Fadil Nurmaulid</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Physics-Instrumentation-blue?style=for-the-badge"/>
@@ -41,27 +41,38 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
-### AI / Scientific Tools
+### AI & Scientific Computing
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
-### Engineering / Hardware
+### Electronics & Robotics
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=ros2" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50"/>
+</p>
+
+---
+
+### Engineering Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/ltspice/8B0000" width="50" height="50"/>
+<img src="https://cdn.simpleicons.org/tinkercad/1477D1" width="50" height="50"/>
 </p>
 
 ---
@@ -72,7 +83,7 @@ Physics Instrumentation undergraduate at University of Indonesia with a strong f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
 </p>
 
 ---
