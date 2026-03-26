@@ -51,7 +51,7 @@ I focus on building **scalable, data-driven, and computationally efficient syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 </p>
 
 ---
@@ -94,7 +94,6 @@ I focus on building **scalable, data-driven, and computationally efficient syste
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/>
 <img src="https://skillicons.dev/icons?i=ros" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50"/>
 </p>
 
 **Capabilities:**
@@ -108,6 +107,7 @@ I focus on building **scalable, data-driven, and computationally efficient syste
 ## Engineering & Simulation Tools
 
 <p>
+<img src="https://img.icons8.com/fluency/48/circuit.png" width="50"/>
 <img src="https://cdn.simpleicons.org/kicad/314CB0" width="50"/>
 <img src="https://cdn.simpleicons.org/ltspice/8B0000" width="50"/>
 <img src="https://cdn.simpleicons.org/tinkercad/1477D1" width="50"/>
